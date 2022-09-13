@@ -1,5 +1,6 @@
 namespace PSGuiAssignment
 {
+    using System.Configuration; 
     internal static class Program
     {
         /// <summary>

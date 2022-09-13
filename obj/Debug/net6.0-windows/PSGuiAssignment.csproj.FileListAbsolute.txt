@@ -24,3 +24,6 @@ C:\Users\linju\IKT300\PSGuiAssignment\bin\Debug\net6.0-windows\runtimes\osx-x64\
 C:\Users\linju\IKT300\PSGuiAssignment\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
 C:\Users\linju\IKT300\PSGuiAssignment\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
 C:\Users\linju\IKT300\PSGuiAssignment\obj\Debug\net6.0-windows\PSGuiAssignment.csproj.CopyComplete
+C:\Users\linju\IKT300\PSGuiAssignment\bin\Debug\net6.0-windows\PSUConnector.dll
+C:\Users\linju\IKT300\PSGuiAssignment\bin\Debug\net6.0-windows\PSUConnector.pdb
+C:\Users\linju\IKT300\PSGuiAssignment\obj\Debug\net6.0-windows\PSGuiAssignment.StartPage.resources
